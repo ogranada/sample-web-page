@@ -27,3 +27,9 @@ body {
   min-width: 20vw;
   background-color: lightgray;
 }
+
+.Content {
+  font-family: serif;
+  color: darkgray;
+  padding: 1em;
+}
